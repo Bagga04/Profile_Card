@@ -1,0 +1,162 @@
+hr{
+    height: 1px;
+    background: #DBE4EC;
+    margin: 0px;
+}
+.profile{
+box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.4);
+    max-width: 320px;
+    margin-top: 150px;
+    font-family: 'Manrope', sans-serif;
+    border-radius:20px;
+
+}
+.info{
+position: relative;
+    text-align: center;
+    
+}
+img{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    margin-top: -50px;
+}
+.RajKumar{
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  
+}
+.profession{
+    margin-top: -20px;
+    color: #B2B8C0;
+}
+.worksat{
+    margin-top: -15px;
+    color: #697988;
+}
+.counts{
+    display: flex;
+}
+.titles{
+    margin-left: 16px;
+}
+.values{
+    margin-right: px;
+    font-size: 13px;
+    margin-left: 50px;
+    color: #197C62;
+    margin-top: 5px;
+}
+.pending{
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.profileviews{
+    display: flex;
+}
+.uploadeddocuments{
+    display: flex;
+}
+.shortlisteduniversities{
+    display: flex;
+    
+}
+span{
+    font-size: 13px;
+    color: #AEB5BD;
+}
+.score{
+    display: flex;
+    font-size: 12px;
+}
+.IELTS{
+    list-style:none;
+    margin-left: -20px;
+    line-height: 35px;
+}
+.GRE{
+    list-style:none;
+    margin-left: -25px;
+    line-height: 35px;
+}
+.CGPA{
+    list-style:none;
+    margin-left: -25px;
+    line-height: 35px;
+}
+.exam{
+    color: #197C62;
+}
+.bar1{
+    margin-left: 10px;
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight:10;
+    color: #B9B9B9;
+}
+.TrackApplication{
+    box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.4);
+    font-family: 'Manrope', sans-serif;
+    border-radius:20px;
+    margin-top: 10px;
+    max-width: 320px;
+}
+.track{
+  padding-top:20px;
+  padding-left: 20px;
+  font-size:22px 
+}
+.Itemple{
+    margin:5px;
+    height: 45px;
+    width: 45px; 
+}
+.Ikings{
+    margin: 5px;
+    height: 45px;
+    width: 45px; 
+}
+.Idayton{
+    margin: 5px;
+   height: 45px;
+    width: 45px; 
+}
+.Icleveland{
+    margin: 5px;
+    height: 45px;
+    width: 45px; 
+}
+.Colleges{
+display: flex;
+}
+.images{
+   width: 100px; 
+    margin-left: 10px;
+}
+.names{
+    margin-left:-20px;
+    font-size: 14px;
+}
+.uni{
+    margin: 0px;
+    margin-top: 13px;
+}
+.masters{
+    margin-top: 0px;
+    color: #697988;
+}
+.temple{
+    margin-top: -5px;
+}
+.kings{
+   margin-top: 23px;
+}
+.dayton{
+    margin-top: 22px;
+}
+.cleveland{
+    margin-top: 22px;
+}
